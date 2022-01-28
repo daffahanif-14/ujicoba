@@ -28,7 +28,7 @@ def getNum(x):
 			input.value = temp
 			return temp
 		else:
-			retun temp
+			return temp
 
 def formula(x, y):
     if x == 'Decimal':
